@@ -21,8 +21,8 @@
     <groupId>ec.edu.ups.ppw.investigacion</groupId>
     <artifactId>ServicioWeb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-
     <packaging>war</packaging>
+    
     <name>ServicioWeb</name>
     <description>Insert description for your project here.</description>
 
